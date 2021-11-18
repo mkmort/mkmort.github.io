@@ -20,7 +20,7 @@ description: >-
 minimal_mistakes_skin: default
 search: false
 local: en-US
-siteurl: https://www.mariamoriarty.com
+siteurl: http://www.mariamoriarty.com
 atom_feed:
   hide                   : true # true, false (default)
 analytics:
