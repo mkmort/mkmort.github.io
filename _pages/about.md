@@ -1,8 +1,29 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
+layout: splash
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## About Maria
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Maria has a BA in Food & Nutrition from CUNY Queens College and an MA in Clinical Nutrition from New York University. She is always continuing her education as a registered dietitian, and is a Member of the Dietitians In Integrative and Functional Medicine, part of the Academy of Nutrition and Dietetics .
+
+## Specialties
+
+Maria specializes in Medical Nutrition Therapy,which aims to help people manage their diet in relation to various medical conditions. She can help patients looking for help with any of these issues:
+
+- Cardiovascular diseases: high cholesterol, hypertension, hyperlipidemia, congestive heart failure
+- Diabetes, hypoglycemia
+- Kidney disease
+- Digestive diseases: Crohns Disease, inflammatory bowel disease, irritable bowel syndrome, constipation, liver disorders
+- Meniere’s Disease
+- Food Allergies or intolerance
+- Celiac disease
+- Cancer
+- Preventative nutrition
+- Weight management and personalized weight loss programs
+- Women’s health: osteoporosis, pregnancy, menopause
+- Elderly nutrition (Geriatrics)
+- Nutrition trends and diets
+- Vegetarianism and Veganism
