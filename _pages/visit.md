@@ -38,7 +38,6 @@ Maria is a provider with the following networks, more are being added:
 - Medicare (Part B)
 - MultiPlan
 - MagnaCare
-- 1199 SEIU
 - Fidelis Care
 - She also accepts cash and checks.
 
